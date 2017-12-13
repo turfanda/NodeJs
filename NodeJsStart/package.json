@@ -1,0 +1,9 @@
+{
+  "name": "node-js-start",
+  "version": "0.0.0",
+  "description": "NodeJsStart",
+  "main": "server.js",
+  "author": {
+    "name": "turfanda"
+  }
+}
